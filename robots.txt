@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ievainaong.bot.dating/sitemap.xml
